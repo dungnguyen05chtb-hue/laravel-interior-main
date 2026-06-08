@@ -18,11 +18,10 @@
 - **Authentication**: Laravel Sanctum hoặc Passport (tuỳ cấu hình)  
 - **Storage**: Laravel File Storage (ảnh sản phẩm)  
 - **Deploy/Hosting**: [nếu có bạn ghi rõ ví dụ: DigitalOcean / Heroku / VPS]  
-- **GitHub Repo**: [github.com/Htuan1911/laravel-interior](https://github.com/Htuan1911/laravel-interior)
+
 
 ## ⚙️ Cài đặt & chạy dự án  
 ```bash
-git clone https://github.com/Htuan1911/laravel-interior.git
 cd laravel-interior
 cp .env.example .env
 composer install
@@ -31,12 +30,7 @@ php artisan migrate --seed
 npm install (nếu dùng frontend build)
 php artisan serve
 
-🧑‍💻 Tài khoản demo
-Admin: admin@test.com / 123456
-User: user@test.com / 123456
 
-👨‍💻 Tác giả
-Hoàng Tuấn
 Backend Developer – chuyên Laravel & API Restful
-📧 Email: tuan178804@gmail.com
-🌐 GitHub: github.com/Htuan1911
+📧 Email: dungnguyen05chtb@gmail.com
+
